@@ -1,0 +1,332 @@
+Boss: O que faz o comando "enable"?;
+Entra no modo de exec privilegiada;
+Ativa uma interface;
+Entra no modo de exec privilegiada;
+|
+Boss: Qual é a função do comando "show running-config"?;
+Exibe a configuração em execução;
+Ativa interfaces;
+Exibe a configuração em execução;
+|
+Boss: Qual comando configura a senha de enable secret?;
+enable secret senha;
+password senha;
+enable secret senha;
+|
+Boss: O que faz o comando "hostname"?;
+Define o nome do dispositivo;
+Configura a senha de console;
+Define o nome do dispositivo;
+|
+Boss: Qual comando define a senha da linha de console?;
+line console 0;
+console password;
+line console 0;
+|
+Boss: Qual comando exibe informações de interfaces?;
+show interfaces;
+configure ip address;
+show interfaces;
+|
+Boss: O que o comando "service password-encryption" faz?;
+Criptografa senhas;
+Exibe senhas;
+Criptografa senhas;
+|
+Boss: Qual é a função do comando "copy running-config startup-config"?;
+Salva a configuração atual;
+Remove configuração;
+Salva a configuração atual;
+|
+Boss: O que faz o comando "write memory"?;
+Salva configuração;
+Reinicia o dispositivo;
+Salva configuração;
+|
+Boss: O que a configuração global permite?;
+Configurar parâmetros globais;
+Apenas visualizar configurações locais;
+Configurar parâmetros globais;
+|
+Boss: Qual comando entra no modo de configuração global?;
+configure terminal;
+config global;
+configure terminal;
+|
+Boss: O comando "show interfaces" exibe?;
+Informações de interfaces;
+Comandos disponíveis;
+Informações de interfaces;
+|
+Boss: Qual comando configura um endereço IP em uma interface?;
+ip address;
+configure ip address;
+ip address;
+|
+Boss: Podemos abreviar comandos nas configurações?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "write memory" serve para quê?;
+Salvar a configuração atual;
+Remover configuração;
+Salvar a configuração;
+|
+Boss: Qual comando configura a senha da linha de console?;
+line console 0;
+console password;
+line console 0;
+|
+Boss: Qual é a função do comando "hostname"?;
+Definir o nome do dispositivo;
+Configurar a senha do usuário;
+Definir o nome do dispositivo;
+|
+Boss: O que faz o comando "service password-encryption"?;
+Criptografa senhas;
+Exibe senhas;
+Criptografa senhas;
+|
+Boss: Como configurar um banner motd?;
+banner motd #Texto#;
+banner console #Texto#;
+banner motd #Texto#;
+|
+Boss: Qual é a finalidade do comando "copy running-config startup-config"?;
+Salvar a configuração atual;
+Ativar uma nova configuração;
+Salvar a configuração atual;
+|
+
+Boss: O comando "show version" exibe informações sobre o quê?;
+Informações sobre a versão do sistema;
+Configurações de rede;
+Informações sobre a versão do sistema;
+|
+Boss: Qual é a função do comando "no shutdown" em uma interface?;
+Ativar a interface;
+Desativar a interface;
+Ativar a interface;
+|
+Boss: Qual comando configura a senha de enable secret?;
+enable secret senha;
+password senha;
+enable secret senha;
+|
+
+Boss: O comando "hostname" define o nome do dispositivo?;
+Sim; 
+Não; 
+Sim;
+|
+Boss: O comando "show interfaces" exibe informações de interfaces?
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "copy running-config startup-config" salva a configuração atual?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "service password-encryption" protege senhas?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "ip address" configura um endereço IP em uma interface?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "write memory" salva a configuração atual?;
+Sim;
+Não;
+Sim;
+|
+Boss: Podemos abreviar comandos nas configurações?;
+Sim;
+Não;
+Sim;
+|
+Boss: O banner motd exibe mensagens de aviso?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "configure terminal" ativa o modo de configuração global?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "copy running-config startup-config" remove a configuração atual?;
+Não;
+Sim;
+Não;
+|
+Boss: O comando "configure terminal" permite configurar interfaces?;
+Não; 
+Sim;
+Não;
+|
+Boss: O comando "ip address" exibe informações sobre interfaces?;
+Não;
+Sim;
+Não;
+|
+Boss: O comando "service password-encryption" exibe senhas em texto simples?;
+Não;
+Sim;
+Não
+|
+Boss: O comando "write memory" reinicia o dispositivo?;
+Não;
+Sim;
+Não
+|
+Boss: O comando "hostname" altera a senha de um usuário?;
+Não;
+Sim;
+|
+
+Boss: O comando "clock rate" é usado para definir a hora do roteador?;
+Não;
+Sim;
+Não;
+|
+Boss: O comando "show running-config" exibe informações sobre interfaces?;
+Não;
+Sim;
+Não;
+|
+Boss: O comando "configure terminal" ativa o modo de configuração global?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "access-list" permite criar listas de controle de acesso?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "copy startup-config running-config" carrega a configuração inicial?;
+Não;
+Sim;
+Não;
+|
+Boss: O comando "show ip route" exibe informações sobre rotas?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "interface GigabitEthernet" configura interfaces Gigabit?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "no shutdown" ativa uma interface?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "clock timezone" define o fuso horário?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "banner motd" exibe mensagens ao acessar o dispositivo?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "ip default-gateway" configura o gateway padrão?;
+Sim;
+Não;
+Sim;
+|
+Boss: O comando "show vlan" exibe informações sobre VLANs?;
+Sim;
+Não;
+
+Boss: O comando "interface Loopback" cria uma interface virtual?;
+Sim;
+Não;
+|
+Boss: O comando "no ip domain-lookup" desativa a resolução DNS?;
+Sim;
+Não;
+|
+Boss: O comando "service password-encryption" criptografa senhas?;
+Sim;
+Não;
+|
+Boss: Qual comando usado para acessar o modo de configuração Global?;
+config t;
+configuret;
+config t
+|
+Boss: Qual a tecla que nos permite completar o comando automaticamente?;
+Shift + C;
+Tab;
+Tab
+|
+Boss: Qual é mais seguro, Telnet ou SSH?;
+Telnet;
+SSH;
+SSH
+|
+Boss: Qual é o ataque de negação de serviço?;
+DDoS;
+ARP;
+DDoS
+|
+Boss: Qual o mais atual, IPv4 ou IPv6?;
+IPv4;
+IPv6;
+IPv6
+|
+Boss: Qual usa hexadecimal para representar seus endereços?;
+IPv6;
+IPv4;
+IPv6
+|
+Boss: Qual oferece acesso remoto para configurar um roteador?;
+Console;
+SSH;
+SSH
+|
+Boss: O que aparece quando entramos no modo privilegiado?;
+"#";
+">";
+"#"
+|
+Boss: Com qual comando acessamos o modo privilegiado?;
+all config;
+enable;
+enable
+|
+Boss: Qual é a memória que é apagada quando desligamos o dispositivo?;
+RAM;
+NVRAM;
+RAM
+|
+Boss: Qual a forma abreviada do comando que salva a configuração?;
+Sv all;
+cop run st;
+cop run st
+|
+Boss: Qual é a memória que não é apagada quando desligamos o dispositivo?;
+RAM;
+NVRAM;
+NVRAM
+|
+Boss: Qual comando é usado para criptografar todas as senhas de um dispositivo?;
+service password-encryption;
+encrypt password;
+service password-encryption
+|
+Boss: Qual a função do gateway?;
+Auto-configurar routers;
+Conversar com redes vizinhas;
+Conversar com redes vizinhas

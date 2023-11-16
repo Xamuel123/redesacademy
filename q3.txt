@@ -1,0 +1,250 @@
+Boss: O que é uma ameaça de rede?;
+Ataque de software;
+Ataque de hardware;
+Ataque de software
+|
+Boss: O que é roubo de informações?;
+Destruição de dados;
+Obter informações confidenciais;
+Obter informações confidenciais
+|
+Boss: Qual é a principal ameaça física?;
+Ameaças de hardware;
+Ameaças ambientais;
+Ameaças de hardware
+|
+Boss: O que são vírus de computador?;
+Softwares benéficos;
+Malwares auto-replicantes;
+Malwares auto-replicantes
+|
+Boss: Como os worms se propagam?;
+Necessitam de programas hospedeiros;
+São independentes;
+São independentes
+|
+Boss: O que fazem os cavalos de Troia?;
+Auto-replicação;
+Parecem legítimos, mas são perigosos;
+Parecem legítimos, mas são perigosos
+|
+Boss: Qual categoria inclui ataques de reconhecimento?;
+Ataques de acesso;
+Negação de serviço;
+Ataques de acesso
+|
+Boss: O que é um ataque de negação de serviço (DoS)?;
+Roubo de informações;
+Desativação de serviços;
+Desativação de serviços
+|
+Boss: Qual ameaça física envolve extremos de temperatura?;
+Ameaças elétricas;
+Ameaças ambientais;
+Ameaças ambientais
+|
+Boss: Como os invasores podem obter informações confidenciais?;
+Por meio de hardware;
+vulnerabilidades de software;
+vulnerabilidades de software
+|
+O que fazem os vírus de computador?;
+Causam DoS;
+Se propagam por programas hospedeiros;
+Se propagam por programas hospedeiros
+|
+Boss: O que é uma ameaça à manutenção?;
+Falta de peças de reposição;
+Ataques de reconhecimento;
+Falta de peças de reposição
+|
+Boss: Qual é o objetivo do roubo de identidade?;
+Obter informações confidenciais;
+Assumir a identidade de alguém;
+Assumir a identidade de alguém
+|
+Boss: O que são cavalos de Tróia conhecidos por criar?;
+Vírus;
+Portas dos fundos;
+Portas dos fundos
+|
+Boss: O que são worms em comparação com vírus?;
+Precisam de hospedeiros;
+São independentes;
+São independentes
+|
+Boss: Um dispositivo infectado pode contaminar outros?;
+Não;
+Sim;
+Sim
+| 
+Boss: O que é uma ameaça ambiental?;
+Asma;
+Calor;
+Calor
+|
+Boss: Como a chuva poderia acabar com uma rede?;
+Inundar a rede;
+Molhando os fios;
+Molhando os fios
+| 
+Boss: O que são ataques de força bruta?;
+Vários esforços;
+Hackeando uma senha;
+Vários esforços
+|
+Boss: O que fornece um antivírus?;
+Segurança;
+Atualização;
+Segurança 
+|
+Boss: O que é autenticação de dois fatores?;
+Troca de senha;
+Verificação dupla;
+Verifcação dupla
+|
+Boss: Pode entrar numa rede pública?;
+Sim;
+Não;
+Sim
+|
+Boss: Qual protege a rede?;
+Firewall;
+Scanner;
+Firewall
+|
+Boss: Qual meio de configuração é mais segura?;
+De casa;
+Por cabo;
+Por cabo
+|
+Boss: Qual senha é mais segura?;
+CE@P.23;
+Ceap123;
+CE@P.23
+|
+Boss: Qual troca a sua localização?;
+HTTP;
+VPN;
+VPN
+|
+Boss: Qual inspeciona e protege o tráfego da rede?;
+Firewall;
+Vírus;
+Firewall
+|
+Boss: Qual protocolo é usado para configurar remotamente de maneira segura?;
+SSH;
+DHCP;
+SSH
+|
+Boss: O que significa o "https://" em sites?;
+Rapidez;
+Segurança;
+Segurança
+|
+Boss: O que se pode usar para se proteger numa rede pública?;
+Não precisa;
+VPN;
+VPN
+|
+Boss: O que significa os "cookies" num site?;
+Biscoitos;
+Seus dados;
+Seus dados
+|
+Boss: É bom atualizar seus dispositivos?;
+Não, só piora;
+Sim, é bom;
+Sim, é bom
+|
+Boss: Qual é mais perigoso?;
+Links;
+SMS;
+Links
+|
+Boss: Qual é o maior perigo de empresas?;
+Goteiras;
+Vazamentos;
+Vazamentos
+|
+Boss: O que significa criptografia?;
+Mudar as senhas;
+Codificar dados;
+Codificar dados
+|
+Boss: ACL e Firewall são a mesma coisa?;
+Não;
+Sim;
+Não
+|
+Boss: Como acontece o ataque de DDoS?
+Com sobrecarga;
+Tirando o backup;
+Com sobrecarga
+|
+Boss: Qual palavra chave define o phishing?;
+Enganação;
+Físico;
+Enganação
+|
+Boss: O que é um ataque de falsificação de IP?;
+Spam de IPs;
+Falsificação de IPs;
+Falsificação de IPs
+|
+Boss: Como a VPN ajuda os usuários?;
+Streaming;
+Rede segura;
+Rede segura
+|
+Boss: Qual aplicativo mais seguro do Android?;
+Itunes;
+Play Store;
+Play Store
+|
+Boss: Backups são importantes?;
+Sim;
+Não;
+Sim
+|
+Boss: O que significa redundância?;
+Vários caminhos;
+Dados redondos;
+Vários caminhos
+|
+Boss: Queda de energia é uma ameaça...;
+Ambiental;
+Humana;
+Ambiental;
+|
+Boss: Qual a temperatura de uma sala cheia de servidores sem ar-condicionado?;
+Fria;
+Muito quente;
+Muito quente
+|
+Boss: IA poderia ajudar a prever ameaças ambientais?;
+Sim, com certeza;
+Não, nunca;
+Sim, com certeza
+|
+Boss: Qual é a maneira mais segura de se propagar os dados?;
+Pelo ar;
+Por eletricidade;
+Por eletricidade
+|
+Boss: Qual a maneira de transmitir dados mais suscetível ao ambiente?;
+Pelo ar;
+Por impulsos de luz;
+Pelo ar
+|
+Boss: O que é um data center resiliente?;
+Um que é automático;
+Não quebra fácil;
+Um que é automático
+|
+Boss: O que pode ajudar uma empresa em sofrendo de uma queda de energia?;
+Gerador;
+Não há como ajudar;
+Gerador
+|

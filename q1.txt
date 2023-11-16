@@ -1,0 +1,375 @@
+Os roteadores encaminham dados?;
+Sim;
+Não;
+Sim
+|
+Os switches encaminham dados?;
+Sim;
+Não;
+Sim
+|
+O que é IP?;
+Endereço;
+Protocolo;
+Protocolo
+|
+Os cabos Ethernet transmitem dados?;
+Sim;
+Não;
+Sim
+|
+Qual a função do DNS?;
+Traduzir;
+Armazena;
+Traduzir
+|
+O Wi-Fi usa ondas de rádio?;
+Sim;
+Não;
+Sim
+|
+O que é LAN?;
+Rede Local;
+Rede Global;
+Rede Local
+|
+O que é WAN?;
+Rede Global;
+Rede Local;
+Rede Global
+|
+O que um firewall faz?;
+Bloqueia tráfego;
+Encaminha tráfego;
+Bloqueia tráfego
+|
+O que um endereço MAC faz?;
+Identifica dispositivo;
+Identifica site;
+Identifica dispositivo
+|
+O que uma NAT faz?;
+Traduz endereços;
+Bloqueia sites;
+Traduz endereços
+|
+O que é VPN?;
+Túnel seguro;
+Rede pública;
+Túnel seguro
+|
+O que é um modem faz?;
+Converte sinais;
+Encaminha pacotes;
+Converte sinais
+|
+O que um servidor faz?;
+Fornece serviços;
+Recebe serviços;
+Fornece serviços
+|
+O que um cliente faz?;
+Recebe serviços;
+Fornece serviços;
+Recebe serviços
+|
+O que é um protocolo?;
+Regra de comunicação;
+Software de firewall;
+Regra de comunicação
+|
+O que é um endereço IPv4?;
+32 bits;
+64 bits;
+32 bits
+|
+O que é um endereço IPv6?;
+128 bits;
+32 bits;
+128 bits
+|
+O que é um URL?;
+Endereço de site;
+Endereço de e-mail;
+Endereço de site
+|
+O que é um domínio?;
+Nome de site;
+Endereço IP;
+Nome de site
+|
+O que é um roteamento?;
+Encaminha dados;
+Conecta dispositivos;
+Encaminha dados
+|
+O que é um gateway?;
+Ponto de saída;
+Ponto de entrada;
+Ponto de saída
+|
+O que é um servidor DNS?;
+Traduz nomes;
+Traduz números;
+Traduz nomes
+|
+O que é um ping?;
+Teste de conectividade;
+Teste de velocidade;
+Teste de conectividade
+|
+O que  um download faz?;
+Recebe dados;
+Envia dados;
+Recebe dados
+|
+O que um upload faz?;
+Envia dados;
+Recebe dados;
+Envia dados
+|
+O que é um protocolo HTTP?;
+Página web;
+Transferência de arquivos;
+Pagina web
+|
+O que é um protocolo FTP?;
+Transferência de arquivos;
+Videoconferência;
+Transferência de arquivos
+|
+O que é um protocolo SMTP?;
+E-mail;
+Chat;
+E-mail
+|
+O que é um protocolo POP3?;
+E-mail;
+Streaming;
+E-mail
+|
+O que é um protocolo IMAP?;
+E-mail;
+Videoconferência;
+E-mail
+|
+O que é um endereço de broadcast?;
+Para todos;
+Para um;
+Para todos
+|
+O que é um endereço de multicast?;
+Para alguns;
+Para todos;
+Para alguns
+|
+O que é um cabo Ethernet crossover?;
+Conecta iguais;
+Conecta diferentes;
+Conecta diferentes
+|
+O que é um roteador sem fio?;
+Com Wi-Fi;
+Sem Wi-Fi;
+WI-fi
+|
+O que é uma rede sem fio?;
+Wi-Fi;
+Bluetooth;
+WI-fi
+|
+O que é uma sub-rede?;
+Rede menor;
+Rede maior;
+Rede menor
+|
+O que é um gateway padrão?;
+Roteador principal;
+Servidor principal;
+Roteador principal
+|
+O que é um endereço IP estático?;
+Permanente;
+Dinâmico;
+Permanente
+|
+O que é um endereço IP dinâmico?;
+Muda;
+Permanente;
+Muda
+|
+O que é um servidor proxy?;
+Intermediário;
+Destino;
+Intermediário
+|
+O que é uma criptografia WEP?;
+Fraca;
+Forte;
+Fraca
+|
+O que é uma criptografia WPA?;
+Segura;
+Insegura;
+Segura
+|
+O que uma VLAN faz?;
+Segmenta rede;
+Une dispositivos;
+Segmenta rede
+|
+O que é um roteador de banda dupla?;
+2 frequências;
+1 frequência;
+2 frequências
+|
+O que é um protocolo de segurança?;
+HTTPS;
+HTTP;
+HTTPS
+|
+O que é uma rede de convidados?;
+Isolada;
+Compartilhada;
+Isolada
+|
+O que é uma topologia de anel?;
+Em círculo;
+Em linha;
+Em círculo
+|
+O que é uma topologia de estrela?;
+Conectados ao hub;
+Conectados entre si;
+Conectados ao hub
+|
+O que é uma topologia de barramento?;
+Compartilham cabo;
+Conexões individuais;
+Compartilham cabo
+|
+O que é um cabo de fibra óptica?;
+Rápido;
+Lento;
+Rápido
+|
+O que é um cabeamento Cat5?;
+Mais antigo;
+Padrão atual;
+Mais antigo
+|
+O que é um DNS local?;
+Rede privada;
+Rede pública;
+Rede privada
+|
+O que é um servidor de arquivos?;
+Armazena dados;
+Envia e-mails;
+Armazena dados
+|
+O que é uma MTU?;
+Tamanho de pacote;
+Taxa de transmissão;
+Tamanho de pacote
+|
+O que  uma máscara de sub-rede faz?;
+Divide rede;
+Protege rede;
+Divide rede
+|
+O que é uma arquitetura cliente-servidor?;
+Dispositivos conectados;
+Dispositivos isolados;
+Dispositivos conectados
+|
+O que é uma arquitetura ponto a ponto?; 
+Compartilham recursos;
+Não compartilham recursos;
+Compartilham recursos
+|
+O que é uma arquitetura de nuvem?; 
+Online;
+Offline;
+Online
+|
+O que é uma rede sem fio mesh?; 
+Auto-organizável;
+Estática;
+Auto-organizável
+|
+O que é um cabo coaxial?;
+TV a cabo;
+Rede de telefone;
+TV a cabo
+|
+O que é uma redundância de rede?; 
+Backup;
+Única rota;
+Backup
+|
+O que é um roteamento estático? 
+Fixo;
+Dinâmico;
+Fixo
+|
+O que é uma criptografia AES?;
+Segura;
+Insegura;
+Segura
+|
+O que  um servidor de impressão faz?;
+Gerencia impressões;
+Imprime documentos;
+Gerencia impressões
+|
+O que é um servidor DHCP?;
+Atribui endereços;
+Traduz nomes;
+Atribui endereços
+|
+O que é uma porta Ethernet?;
+Conexão física;
+Conexão sem fio;
+Conexão física
+|
+O que é uma rede de área pessoal?;
+Curta distância;
+Longa distância;
+Curta distância
+|
+O que é um repetidor Wi-Fi?;
+Amplifica sinal;
+Reduz sinal;
+Amplifica sinal
+|
+O que é uma antena direcional?;
+Foco sinal;
+Dispersa sinal;
+Foco sinal
+|
+O que é um endereço IP privado?;
+Dentro de LAN;
+Fora de LAN;
+Dentro de LAN
+|
+O que é um loopback?; 
+Teste local;
+Teste remoto;
+Teste local
+|
+O que é uma camada OSI?;
+Divide funções;
+Une funções;
+Divide funções
+|
+O que é uma QoS?;
+Prioriza tráfego;
+Ignora tráfego;
+Prioriza tráfego
+|
+O que é um ataque DDoS?;
+Sobrecarrega rede;
+Protege rede;
+Sobrecarrega rede
+|
